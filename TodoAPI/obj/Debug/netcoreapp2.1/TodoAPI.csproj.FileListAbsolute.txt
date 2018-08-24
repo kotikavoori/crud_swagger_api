@@ -1,0 +1,16 @@
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.deps.json
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.runtimeconfig.json
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.runtimeconfig.dev.json
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.dll
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.pdb
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.csproj.CoreCompileInputs.cache
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cache
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cs
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.AssemblyInfoInputs.cache
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.AssemblyInfo.cs
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.RazorTargetAssemblyInfo.cache
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.dll
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.pdb
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.csprojAssemblyReference.cache
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.1\TodoAPI.xml
+D:\Work\PlayGround\API\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.1\TodoAPI.xml
